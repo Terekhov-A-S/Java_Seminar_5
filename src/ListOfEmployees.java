@@ -11,6 +11,8 @@ public class ListOfEmployees {
     public static void main(String[] args) {
         Map<String, Integer> nameMap = new HashMap<>();
         String employees = "Иван " +
+                "Петр " +
+                "Антон " +
                 "Карина " +
                 "Сергей " +
                 "Иван " +
@@ -22,7 +24,6 @@ public class ListOfEmployees {
                 "Анна " +
                 "Иван " +
                 "Мария " +
-                "Петр " +
                 "Павел " +
                 "Петр " +
                 "Мария " +
