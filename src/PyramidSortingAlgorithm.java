@@ -1,3 +1,5 @@
+// Задача 3. Реализовать алгоритм пирамидальной сортировки (HeapSort).
+
 public class PyramidSortingAlgorithm {
 
     public void sort(int arr[]) {
